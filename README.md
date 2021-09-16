@@ -28,7 +28,7 @@
 
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="cdftv.svg"/>](https://www.instagram.com/manycontent/)
+[<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://manycontent.com/favicon.ico"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • Atual\
