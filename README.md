@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), Sass, Tailwind CSS, Vue.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Sass, Tailwind CSS, Vue, Node.js, Nuxt e Aprender :).</strong>
+</p>
+
+<p align="left">
+🦄 Bancos de Dados: <strong>MySQL, MongoBD, Firebase Firestore e SQLite.</strong>
 </p>
 
 <p align="left">
@@ -15,11 +19,15 @@
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 Se você deseja qualquer coisa, não hesite em me enviar uma mensagem.
 </p>
 
 <p align="left">  
-  <a href="https://www.linkedin.com/in/martins-gouveia" alt="Linkedin">
+  <a
+    href="https://www.linkedin.com/in/martins-gouveia"
+    target="_blank"
+    alt="Linkedin"
+  >
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </p>
