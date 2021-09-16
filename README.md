@@ -3,7 +3,7 @@
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é Martins Gouveia. Sou <strong>Desenvolvedor de FullStack</strong>.
+  🌎 Olá, meu nome é Martins Gouveia. Sou <strong>Desenvolvedor FullStack</strong>.
 </p>
 
 <p align="left">
