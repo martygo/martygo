@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Sass, Tailwind CSS, Vue, Node.js, Nuxt e Aprender :).</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Sass, TailwindCSS, Vue, TypeScript, Node.js, Nuxt e Aprender :).</strong>
 </p>
 
 <p align="left">
