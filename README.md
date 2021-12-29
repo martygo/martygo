@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Todoist, Firebase Services, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>Firebase Services, Git, GitHub e Bitbucket.</strong>
 </p>
 
 <p align="left">
