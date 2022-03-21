@@ -39,6 +39,6 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 [<img align="left" height="100px" width="100px" alt="Código Fonte TV" src="https://manycontent.com/favicon.ico"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
- Part-time • Atual\
+ Part-time • 2022\
 Serviços: `Vue.js Developer`, `Node.js Developer`, `Firebase Services`, \
 <br/>
