@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Firebase Services, Git, GitHub e Bitbucket.</strong>
+  💼 Ferramentas: <strong>Firebase Services, Git, Docker, GitHub e Bitbucket.</strong>
 </p>
 
 <p align="left">
