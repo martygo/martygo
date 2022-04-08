@@ -40,11 +40,11 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 [**Manycontent**](https://www.instagram.com/nuvenz.net_/) \
  Part-time • Atualmente\
-Serviços: `Vue.js Developer`, `Node.js Developer`, `Amazon Web Services`, `Docker`, `React.js Developer`, `Wordpress`,  \
+Serviços: `Vue.js Developer`, `Node.js Developer`, `Amazon Web Services`, `Docker`, `React.js Developer`, `Wordpress`  \
 <br/>
 
 [<img align="left" height="100px" width="100px" alt="Manycontent" src="https://manycontent.com/favicon.ico"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • 2022\
-Serviços: `Vue.js Developer`, `Node.js Developer`, `Firebase Services`,
+Serviços: `Vue.js Developer`, `Node.js Developer`, `Firebase Services`
