@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Sass, TailwindCSS, Vue, TypeScript, Node.js, Nuxt e Aprender :).</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Laravel, Sass, TailwindCSS, Vue, TypeScript, Node.js, Nuxt e Aprender :).</strong>
 </p>
 
 <p align="left">
@@ -15,7 +15,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Firebase Services, Git, Docker, GitHub e Bitbucket.</strong>
+💼 Arquitetura: <strong>Clean Architecture, MVC</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>Firebase Services, GraphQL, Git, Docker, Jest, Cypress.io, GitHub, Bitbucket, Postman, Insomnia...</strong>
 </p>
 
 <p align="left">
