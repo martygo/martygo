@@ -47,7 +47,7 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 Serviços: `Vue.js Developer`, `Node.js Developer`, `Amazon Web Services`, `Docker`, `React.js Developer`, `Angular Developer`, `Ionic`, `Wordpress`  \
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="Manycontent" src="https://manycontent.com/favicon.ico"/>](https://www.instagram.com/manycontent/)
+[<img align="left" height="100px" width="100px" alt="Manycontent" src="https://manycontent.com/wp-content/uploads/2022/05/logo_reverse.png"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • 2022\
