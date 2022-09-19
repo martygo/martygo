@@ -40,15 +40,22 @@
 
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
 
+[<img align="left" height="100px" width="100px" alt="Nuvenz" src="https://apksshare.com/wp-content/uploads/2021/07/SKY-A-gente-se-diverte-junto-APK-MOD-Download-7.29.0.png")
+
+[**SkyBrasil**](https://www.instagram.com/skybrasil/?hl=pt) \
+ Full-time • Atualmente\
+Serviços: `React`, `Liferey`, `FreeMaker`, `Figma` \
+<br/>
+
 [<img align="left" height="100px" width="100px" alt="Nuvenz" src="https://www.nuvenz.net/wp-content/uploads/2021/06/logo.svg"/>](https://www.instagram.com/nuvenz.net_/)
 
 [**Nuvenz**](https://www.instagram.com/nuvenz.net_/) \
  Part-time • Atualmente\
-Serviços: `Vue.js Developer`, `Node.js Developer`, `Amazon Web Services`, `Docker`, `React.js Developer`, `Angular Developer`, `Ionic`, `Wordpress`  \
+Serviços: `Vue`, `Node`, `Amazon Web Services`, `Docker`, `React`, `Angular`, `Ionic`, `Wordpress`  \
 <br/>
 
 [<img align="left" height="100px" width="100px" alt="Manycontent" src="https://manycontent.com/wp-content/uploads/2022/05/logo_reverse.png"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • 2022\
-Serviços: `Vue.js Developer`, `Node.js Developer`, `Firebase Services`
+Serviços: `Vue`, `Node`, `Firebase Services`
