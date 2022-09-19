@@ -39,8 +39,8 @@
 ### Experiência de trabalho
 
 Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="100px" width="100px" alt="Nuvenz" src="https://apksshare.com/wp-content/uploads/2021/07/SKY-A-gente-se-diverte-junto-APK-MOD-Download-7.29.0.png")
+      
+[<img align="left" height="100px" width="100px" alt="Manycontent" src="https://apksshare.com/wp-content/uploads/2021/07/SKY-A-gente-se-diverte-junto-APK-MOD-Download-7.29.0.png"/>](https://www.instagram.com/skybrasil/?hl=pt)
 
 [**SkyBrasil**](https://www.instagram.com/skybrasil/?hl=pt) \
  Full-time • Atualmente\
