@@ -50,7 +50,7 @@ Techs: `React`, `Liferey`, `FreeMaker`, `Storybook`, `Bitbucket`, `Figma` \
 [<img align="left" height="100px" width="100px" alt="Nuvenz" src="https://www.nuvenz.net/wp-content/uploads/2021/06/logo.svg"/>](https://www.instagram.com/nuvenz.net_/)
 
 [**Nuvenz**](https://www.instagram.com/nuvenz.net_/) \
- Part-time • Atualmente\
+ Part-time • Present\
 Techs: `Vue`, `Node`, `Amazon Web Services`, `Docker`, `React`, `Angular`, `Ionic`, `Wordpress`  \
 <br/>
 
