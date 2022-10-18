@@ -58,4 +58,4 @@ Techs: `Vue`, `Node`, `Amazon Web Services`, `Docker`, `React`, `Angular`, `Ioni
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • 2022\
-Techs: `Vue`, `Node`, `Storyblock`, `Firebase Services`
+Techs: `Vue`, `Node`, `Storyblok CMS`, `Firebase Services`
