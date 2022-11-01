@@ -35,22 +35,3 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </p>
-
-### Work experience
-
-In the overview below you will find my most recent work experience:
-<br/>
-
-[**SkyBrasil**](https://www.instagram.com/skybrasil/?hl=pt) \
- Full-time • Present\
-Techs: `React`, `Liferey`, `FreeMaker`, `Storybook`, `Bitbucket`, `Figma` \
-<br/>
-
-[**Nuvenz**](https://www.instagram.com/nuvenz.net_/) \
- Part-time • Present\
-Techs: `Vue`, `Node`, `Amazon Web Services`, `Docker`, `React`, `Angular`, `Ionic`, `Wordpress`  \
-<br/>
-
-[**Manycontent**](https://www.instagram.com/manycontent/) \
- Part-time • 2022\
-Techs: `Vue`, `Node`, `Storyblok CMS`, `Firebase Services`
