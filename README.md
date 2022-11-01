@@ -39,22 +39,17 @@
 ### Work experience
 
 In the overview below you will find my most recent work experience:
-      
-[<img align="left" height="100px" width="100px" alt="Manycontent" src="https://apksshare.com/wp-content/uploads/2021/07/SKY-A-gente-se-diverte-junto-APK-MOD-Download-7.29.0.png"/>](https://www.instagram.com/skybrasil/?hl=pt)
+<br/>
 
 [**SkyBrasil**](https://www.instagram.com/skybrasil/?hl=pt) \
  Full-time • Present\
 Techs: `React`, `Liferey`, `FreeMaker`, `Storybook`, `Bitbucket`, `Figma` \
 <br/>
 
-[<img align="left" height="100px" width="100px" alt="Nuvenz" src="https://www.nuvenz.net/wp-content/uploads/2021/06/logo.svg"/>](https://www.instagram.com/nuvenz.net_/)
-
 [**Nuvenz**](https://www.instagram.com/nuvenz.net_/) \
  Part-time • Present\
 Techs: `Vue`, `Node`, `Amazon Web Services`, `Docker`, `React`, `Angular`, `Ionic`, `Wordpress`  \
 <br/>
-
-[<img align="left" height="100px" width="100px" alt="Manycontent" src="https://manycontent.com/wp-content/uploads/2022/05/logo_reverse.png"/>](https://www.instagram.com/manycontent/)
 
 [**Manycontent**](https://www.instagram.com/manycontent/) \
  Part-time • 2022\
