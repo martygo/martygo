@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-🦄 Database: <strong>MySQL, Postgre, MongoBD, Firestore and SQLite.</strong>
+🦄 Database: <strong>MySQL, PostgreSQL, MongoBD, Firestore and SQLite.</strong>
 </p>
 
 <p align="left">
