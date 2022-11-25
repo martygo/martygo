@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Laravel, Sass, TailwindCSS, Vue, TypeScript, Node.js, Nuxt, Liferey CMS, Java, SpringBoot, Freemaker, Solve problem and Learn :).</strong>
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript (ES6), PHP, Laravel, Sass, TailwindCSS, Vue, TypeScript, Node.js, Nuxt, Liferey CMS, Java, SpringBoot, Freemaker, Tests (unit, integration & end2end), Solve problem and Learn :).</strong>
 </p>
 
 <p align="left">
