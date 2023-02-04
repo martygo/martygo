@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Firebase Services, GraphQL, Git, Docker, Jest, Cypress.io, GitHub, Bitbucket, Postman, Insomnia, Swagger...</strong>
+  💼 Tools: <strong>Firebase Services, GraphQL, Git, Docker, Jest, Cypress.io, GitHub, Bitbucket, Postman, Insomnia, Docusaurus, Swagger...</strong>
 </p>
 
 <p align="left">
